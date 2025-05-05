@@ -4,6 +4,12 @@
     <br/>
 </p>
 
+# Overview
+
+Using AccountUI Theme with hashrouter.
+
+Based on the advice I got in this [thread#47](https://github.com/keycloakify/keycloakify-starter/issues/47), I put together the following.
+
 # Quick start
 
 ```bash
